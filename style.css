@@ -36,5 +36,5 @@ footer p{color:var(--muted);font-size:.9rem;margin-bottom:8px}
 ::selection{background:#fff;color:#000}
 @media(max-width:760px){
 .menu-btn{display:block}.nav{padding:13px 14px}.nav-links{display:none;position:absolute;top:54px;left:14px;right:14px;background:#020202;border:1px solid var(--line);flex-direction:column;gap:0}.nav-links.open{display:flex}.nav-links a{padding:14px;border-bottom:1px solid var(--soft)}
-.hero{min-height:82vh;padding:70px 0 56px}.hero h1{letter-spacing:.14em;font-size:clamp(3.1rem,16vw,5.6rem)}.section{min-height:auto;padding:68px 0}.section h2{letter-spacing:.16em;font-size:clamp(1.45rem,7.3vw,2.65rem)}.text-block p,.contact-box p{font-size:1.05rem;line-height:1.85}
+.hero{min-height:82vh;padding:70px 0 56px}.hero h1{letter-spacing:.14em;font-size:clamp(3.1rem,16vw,5.6rem)}.section{min-height:auto;padding:50px 0}.section h2{letter-spacing:.16em;font-size:clamp(1.45rem,7.3vw,2.65rem)}.text-block p,.contact-box p{font-size:1.05rem;line-height:1.85}
 }
